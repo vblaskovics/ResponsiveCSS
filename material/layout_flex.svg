@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400.4324mm"
+   height="174.93253mm"
+   viewBox="0 0 400.4324 174.93253"
+   version="1.1"
+   id="svg2017"
+   inkscape:version="1.2-rc (6364d40632, 2022-05-08)"
+   sodipodi:docname="layout_flex.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2019"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.73940797"
+     inkscape:cx="411.13974"
+     inkscape:cy="612.65231"
+     inkscape:window-width="2882"
+     inkscape:window-height="1660"
+     inkscape:window-x="3072"
+     inkscape:window-y="336"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2014" />
+  <g
+     inkscape:label="Réteg 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:#2b0000;stroke-width:1.05833;stroke-dasharray:none"
+       id="rect184"
+       width="174.97951"
+       height="123.45181"
+       x="18.607227"
+       y="20.710054"
+       ry="4.301424" />
+    <rect
+       style="fill:#ffffff;stroke:#2b0000;stroke-width:1.05833;stroke-dasharray:none"
+       id="rect184-9"
+       width="162.30975"
+       height="29.401993"
+       x="24.942108"
+       y="26.566114"
+       ry="1.0244519" />
+    <text
+       xml:space="preserve"
+       style="font-size:12.7px;font-family:'Sports World';-inkscape-font-specification:'Sports World';fill:#000000;stroke:none;stroke-width:1;stroke-dasharray:none"
+       x="77.75515"
+       y="45.812572"
+       id="text1085"><tspan
+         sodipodi:role="line"
+         id="tspan1083"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;stroke:none;stroke-width:1"
+         x="77.75515"
+         y="45.812572">HEADER</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#2b0000;stroke-width:1.05833;stroke-dasharray:none"
+       id="rect184-9-1-2"
+       width="37.67807"
+       height="76.379921"
+       x="24.962725"
+       y="64.019859"
+       ry="2.6613002" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;font-family:'Sports World';-inkscape-font-specification:'Sports World';fill:#000000;stroke:none;stroke-width:1;stroke-dasharray:none"
+       x="45.3013"
+       y="105.74518"
+       id="text1085-2-8"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="45.3013"
+         y="105.74518"
+         id="tspan1270">ITEM</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#2b0000;stroke-width:1.05833;stroke-dasharray:none"
+       id="rect184-9-1-2-7"
+       width="37.67807"
+       height="76.379921"
+       x="66.920761"
+       y="64.019859"
+       ry="2.6613002" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;font-family:'Sports World';-inkscape-font-specification:'Sports World';fill:#000000;stroke:none;stroke-width:1;stroke-dasharray:none"
+       x="87.897545"
+       y="105.74518"
+       id="text1085-2-8-8"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="87.897545"
+         y="105.74518"
+         id="tspan1270-9">ITEM</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#2b0000;stroke-width:1.05833;stroke-dasharray:none"
+       id="rect184-9-1-2-6"
+       width="37.67807"
+       height="76.379921"
+       x="107.73917"
+       y="64.019859"
+       ry="2.6613002" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;font-family:'Sports World';-inkscape-font-specification:'Sports World';fill:#000000;stroke:none;stroke-width:1;stroke-dasharray:none"
+       x="128.73589"
+       y="105.74518"
+       id="text1085-2-8-4"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="128.73589"
+         y="105.74518"
+         id="tspan1270-93">ITEM</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#2b0000;stroke-width:1.05833;stroke-dasharray:none"
+       id="rect184-9-1-2-2"
+       width="37.67807"
+       height="76.379921"
+       x="149.55318"
+       y="64.019859"
+       ry="2.6613002" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;font-family:'Sports World';-inkscape-font-specification:'Sports World';fill:#000000;stroke:none;stroke-width:1;stroke-dasharray:none"
+       x="170.11852"
+       y="105.74518"
+       id="text1085-2-8-3"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="170.11852"
+         y="105.74518"
+         id="tspan1270-1">ITEM</tspan></text>
+    <rect
+       style="fill:#aa8800;stroke:none;stroke-width:0;stroke-dasharray:none"
+       id="rect1324"
+       width="41.49609"
+       height="22.275383"
+       x="162.57512"
+       y="137.36229"
+       ry="3.7125638" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1.05833;stroke-dasharray:none"
+       x="183.31352"
+       y="152.03777"
+       id="text1328"><tspan
+         sodipodi:role="line"
+         id="tspan1326"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke-width:1.05833"
+         x="183.31352"
+         y="152.03777">desktop</tspan></text>
+    <path
+       style="fill:#aa8800;stroke:none;stroke-width:0;stroke-dasharray:none"
+       d="m 176.43208,142.07844 -12.65125,-24.37134 2.53025,24.37134 z"
+       id="path1486-3-1" />
+    <rect
+       style="fill:#ffffff;stroke:#2b0000;stroke-width:0.755967;stroke-dasharray:none"
+       id="rect184-5"
+       width="89.061188"
+       height="123.75417"
+       x="235.70964"
+       y="20.558878"
+       ry="4.3119593" />
+    <rect
+       style="fill:#ffffff;stroke:#2b0000;stroke-width:1.05833;stroke-dasharray:none"
+       id="rect184-9-8"
+       width="76.782104"
+       height="29.728382"
+       x="242.0325"
+       y="26.402933"
+       ry="1.0358242" />
+    <text
+       xml:space="preserve"
+       style="font-size:12.7px;font-family:'Sports World';-inkscape-font-specification:'Sports World';fill:#000000;stroke:none;stroke-width:1;stroke-dasharray:none"
+       x="255.85042"
+       y="45.812569"
+       id="text1085-9"><tspan
+         sodipodi:role="line"
+         id="tspan1083-5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;stroke:none;stroke-width:1"
+         x="255.85042"
+         y="45.812569">HEADER</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#2b0000;stroke-width:1.05833;stroke-dasharray:none"
+       id="rect184-9-1-2-9"
+       width="38.022194"
+       height="34.46957"
+       x="242.04427"
+       y="63.847801"
+       ry="1.2010207" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;font-family:'Sports World';-inkscape-font-specification:'Sports World';fill:#000000;stroke:none;stroke-width:1;stroke-dasharray:none"
+       x="261.49655"
+       y="84.578529"
+       id="text1085-2-8-30"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="261.49655"
+         y="84.578529"
+         id="tspan1270-7">ITEM</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#2b0000;stroke-width:1.05833;stroke-dasharray:none"
+       id="rect184-9-1-2-7-1"
+       width="34.851322"
+       height="34.499702"
+       x="283.98721"
+       y="63.832741"
+       ry="1.2020708" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;font-family:'Sports World';-inkscape-font-specification:'Sports World';fill:#000000;stroke:none;stroke-width:1;stroke-dasharray:none"
+       x="301.97614"
+       y="84.913002"
+       id="text1085-2-8-8-9"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="301.97614"
+         y="84.913002"
+         id="tspan1270-9-3">ITEM</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#2b0000;stroke-width:1.05833;stroke-dasharray:none"
+       id="rect184-9-1-2-9-0"
+       width="38.022194"
+       height="34.46957"
+       x="242.04427"
+       y="102.2588"
+       ry="1.2010207" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;font-family:'Sports World';-inkscape-font-specification:'Sports World';fill:#000000;stroke:none;stroke-width:1;stroke-dasharray:none"
+       x="261.49655"
+       y="122.98952"
+       id="text1085-2-8-30-5"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="261.49655"
+         y="122.98952"
+         id="tspan1270-7-1">ITEM</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#2b0000;stroke-width:1.05833;stroke-dasharray:none"
+       id="rect184-9-1-2-7-1-2"
+       width="34.851322"
+       height="34.499702"
+       x="283.98721"
+       y="102.24375"
+       ry="1.2020708" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;font-family:'Sports World';-inkscape-font-specification:'Sports World';fill:#000000;stroke:none;stroke-width:1;stroke-dasharray:none"
+       x="301.97614"
+       y="123.324"
+       id="text1085-2-8-8-9-2"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="301.97614"
+         y="123.324"
+         id="tspan1270-9-3-6">ITEM</tspan></text>
+    <rect
+       style="fill:#aa8800;stroke:none;stroke-width:0;stroke-dasharray:none"
+       id="rect1324-8"
+       width="41.49609"
+       height="22.275383"
+       x="338.06113"
+       y="103.61478"
+       ry="3.7125638" />
+    <path
+       style="fill:#aa8800;stroke:none;stroke-width:0;stroke-dasharray:none"
+       d="m 346.56175,113.65039 -25.08451,-11.17066 17.17051,17.47964 z"
+       id="path1486-3-1-7" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1.05833;stroke-dasharray:none"
+       x="358.79956"
+       y="118.29028"
+       id="text1328-8"><tspan
+         sodipodi:role="line"
+         id="tspan1326-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke-width:1.05833"
+         x="358.79956"
+         y="118.29028">tablet</tspan></text>
+  </g>
+</svg>
