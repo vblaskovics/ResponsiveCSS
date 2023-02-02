@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      http-equiv="X-UA-Compatible"
+      content="IE=edge"
+    />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+    />
+    <title>Document</title>
+  </head>
+  <style>
+    body {
+      padding: 0px;
+      margin: 0px;
+      color: darkgray;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+    .title {
+      background-color: rgb(84, 84, 84);
+      color: azure;
+      text-align: center;
+      font-size: xx-large;
+      padding: 10px 0px;
+    }
+    nav {
+      position: sticky;
+      top: 0px;
+      color: azure;
+      background-color: darkgray;
+      padding: 5px;
+    }
+    nav ul {
+      list-style: none;
+      overflow: hidden;
+      margin: 0px;
+    }
+    nav li {
+      float: left;
+    }
+    nav a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 2px 10px;
+      text-decoration: none;
+    }
+    .container {
+      padding: 0px 30px;
+      margin-bottom: 50px;
+    }
+    .chart {
+      background-color: lightgray;
+      color: lightgray;
+      height: 20px;
+      border-radius: 4px;
+      margin-bottom: 10px;
+      padding-left: 10px;
+    }
+    .chart.active {
+      position: relative;
+      color: darkgray;
+      bottom: 5px;
+      left: 5px;
+    }
+    .chart-1 {
+      width: 300px;
+    }
+    .chart-2 {
+      width: 240px;
+    }
+    .chart-3 {
+      width: 160px;
+    }
+    .chart-4 {
+      width: 100px;
+    }
+    .card {
+      background-image:url('user.png');
+      background-size: cover;
+      width: 150px;
+      height: 150px;
+      border-radius: 5px;
+      box-shadow: 2px 2px 5px darkgray;
+      position: relative;
+    }
+    .user-name {
+      color: azure;
+      position: absolute;
+      bottom: 10px;
+      text-align: center;
+      width: 100%;
+    }
+    .cookies-popup {
+      position: fixed;
+      bottom: 4px;
+      right: 4px;
+      padding: 4px;
+      background-color: dimgrey;
+      color: azure;
+      border-radius: 5px;
+    }
+    .cookies-popup p {
+      margin-top: 2px;
+      margin-bottom: 2px;
+      font-size: x-small;
+    }
+
+  </style>
+  <body>
+    <div class="title">Welcome!</div>
+    <nav>
+      <ul>
+        <li><a href="#chart">Chart</a></li>
+        <li><a href="#card">Card</a></li>
+      </ul>
+    </nav>
+    <div class="container">
+      <section id="chart">
+        <h2>Chart</h2>
+        <div class="chart chart-1">300</div>
+        <div class="chart chart-2">240</div>
+        <div class="chart chart-3">160</div>
+        <div class="chart chart-4">100</div>
+      </section>
+
+      <section id="card">
+        <h2>Card</h2>
+        <div class="card">
+          <div class="user-name">John Doe</div>
+        </div>
+      </section>
+
+      <div class="cookies-popup">
+        <strong>Cookies</strong>
+        <p>This site using cookies.</p>
+        <p>Accept them?</p>
+        <button>Yes</button>
+        <button>No</button> 
+      </div>
+    </div>
+
+    <script>
+      let chartElements = document.querySelectorAll(".chart");
+      chartElements.forEach(element => {
+        element.addEventListener('click', () => {
+          element.classList.toggle('active');
+        })
+      });
+    </script>
+    
+  </body>
+</html>
