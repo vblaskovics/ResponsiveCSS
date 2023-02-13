@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Flex example</title>
+  <style>
+    body {
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    .navbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      background-color: dimgrey;
+      padding-left: 10px;
+      height: 60px;
+    }
+    .menu {
+      display: flex;
+    }
+    .menu a {
+      margin-right: 10px;
+    }
+    .container {
+      display: flex;
+      flex-direction: column;
+      max-width: 900px;
+      margin: auto;
+      background-color: aliceblue;
+    }
+    .row {
+      display: flex;
+      align-items: stretch;
+      justify-content: space-around;
+      background-color: lightgray;
+      margin: 7px;
+    }
+    .column {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      background-color: grey;
+      margin: 7px;
+      padding: 10px;
+      flex-grow: 1;
+      flex-shrink: 1;
+      flex-basis: 0;
+    }
+    .gallery {
+      display: flex;
+      align-content: flex-start;
+      align-items: center;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+    .gallery img {
+      border-radius: 7px;
+      margin: 10px;
+    }
+  </style>
+</head>
+<body>
+  <nav class="navbar">
+    <div class="brand">Flex Blog</div>
+    <div class="menu">
+      <a>Blog</a>
+      <a>Gallery</a>
+    </div>
+  </nav>
+  <div class="container">
+    <div class="row">
+      <h1>Blog</h1>
+    </div>
+    <div class="row">
+      <div class="column">
+        <h2>Title 1</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </div>
+      <div class="column">
+        <h2>Title 2</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Au consectetur adipiscing elit </p>
+      </div>
+      <div class="column">
+        <h2>Title 3</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </div>
+    </div>
+    <div class="row">
+      <h1>Gallery</h1>
+    </div>
+    <div class="row">
+      <div class="gallery">
+        <img src="https://via.placeholder.com/150x120/EEEEEE">
+        <img src="https://via.placeholder.com/130/EEEEEE">
+        <img src="https://via.placeholder.com/110x140/EEEEEE">
+        <img src="https://via.placeholder.com/170x80/EEEEEE">
+        <img src="https://via.placeholder.com/110/EEEEEE">
+        <img src="https://via.placeholder.com/150x100/EEEEEE">
+      </div>
+    </div>
+  </div>
+</body>
+</html>
